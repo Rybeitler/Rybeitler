@@ -1,10 +1,10 @@
-Hi 👋 My name is Ryan Beitler
+Ryan Beitler
 =============================
 
 Full-Stack Web Developer
 ------------------------
 
-Former IT professional turned coding enthusiast, I recently Graduated from Coding-Dojo's Full-Stack web developer program. I am an avid react fan, tho I also work in python and java.
+Former IT network professional turned coding enthusiast, I recently Graduated from Coding-Dojo's Full-Stack web developer program. I am an avid react fan, tho I also work in python and java.
 
 * 🌍  I'm based in Maine
 * ✉️  You can contact me at [rybeitler@gmail.com](mailto:rybeitler@gmail.com)
