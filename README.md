@@ -6,9 +6,10 @@ Full-Stack Web Developer
 
 Former IT network professional turned coding enthusiast, I recently Graduated from Coding-Dojo's Full-Stack web developer program. I am an avid react fan, tho I also work in python and java.
 
+
 * 🌍  I'm based in Maine
 * ✉️  You can contact me at [rybeitler@gmail.com](mailto:rybeitler@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠 [Portfolio](https://portfolio-swart-pi-49.vercel.app/)
 
 ### Skills
 
